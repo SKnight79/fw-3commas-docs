@@ -99,7 +99,7 @@ Also note the formatting of the `pair` attribute, use the format provided by 3Co
 
 ## FW strategy
 
-FW strategy is a pinescript strategy which creates buy and sell alerts. It can be deployed in Tradingview either on the website or the desktop application.
+FW strategy is a pinescript strategy which creates buy and sell alerts. It can be deployed in Tradingview either on the website or the desktop application. 
 
 1. Copy all of the text from `FW Trading Strategy.pine.txt`
 
@@ -162,7 +162,7 @@ Do this for the Long and Short positions, placing the X3L coin in the Long trade
 
 ## Indicators
 
-It is recommended at the very least that `FW Status`, `FW Bands Trend`, and `FW Support Resistance` are loaded alongside the strategy. These do not affect the strategy but help to visualise what conditions the strategy is considering and why.
+It is recommended at the very least that `FW Status`, `FW Bands Trend`, and `FW Support Resistance` are loaded alongside the strategy. These do not affect the strategy but help to visualise what conditions the strategy is considering and why. It is recommended that you update to the latest version and check in on our discord server for any new releases.
 
 ## Tips
 
